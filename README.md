@@ -1,2 +1,2 @@
-# WaveWorksWebsite
-Home of WaveWorks and Sequential
+# Sequential
+Basic Sequential Website
